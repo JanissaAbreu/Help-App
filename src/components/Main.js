@@ -1,4 +1,5 @@
 import React from "react";
+import '../styling/Main.css';
 
 const MainScreen = (props) => {
     //This "enterButton" function is where the code for the enter button will go

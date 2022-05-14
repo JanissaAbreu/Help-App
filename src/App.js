@@ -1,6 +1,7 @@
-import MainScreen from './components/Main';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import MainScreen from './components/Main';
 import HowToPage from './components/HowTo';
+import RandomSuggestion from './components/RandomSuggestion';
 import './App.css';
 
 function App() {
@@ -10,7 +11,10 @@ function App() {
         <Routes>
 
           <Route exact path = "/" element = {
+            <div>
               <MainScreen/>
+              <RandomSuggestion/>
+            </div>
             }
           />
 

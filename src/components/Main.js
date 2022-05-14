@@ -7,7 +7,9 @@ const MainScreen = (props) => {
             <input className = "userInput" placeholder = "Type emotion here..." type = "text"/>
             <button className="enterButton">Enter</button>
             <br/>
-            <button className="howToButton">How To Use</button>
+            <a href = "/howtouse">
+                <button className="howToButton">How To Use</button>
+            </a>
         </div>
     );
 }

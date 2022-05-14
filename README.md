@@ -1,3 +1,12 @@
+# Quick Steps on how to connect
+
+1) On your own computer, make a folder for the project
+2) From the terminal/console/gitbash (whatever you want to use), make sure you're inside of the folder you made
+3) Type git clone https://github.com/cocoabunnie/Help.git
+4) Let it run...
+5) After it's done, you should be able to type " code . " and it'll open 😊 It's connected, too, so you can push everything on the branch
+6) You can erase these steps in the read me after you're done
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

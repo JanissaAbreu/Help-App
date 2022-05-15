@@ -1,6 +1,6 @@
 .mainScreenTitle{
     color: var(--light-blue);
-    padding: 25px;
+    padding: 10px;
 }
 
 .userInput{
@@ -17,7 +17,7 @@
 .enterButton{
     background-color: var(--light-blue);
     border: var(--light-blue) solid 1px;
-    height: 23.35px;
+    height: 23.34px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
 }

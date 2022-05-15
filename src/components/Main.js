@@ -59,11 +59,13 @@ const MainScreen = (props) => {
 
             //Set the appResponse state to whatever random response is selected from the json file
             setResponse(randResponse);
+        } else {
+            setResponse("That's not valid....");
         }
     }
 
     return (
-        <div className = "mainScreen">
+        <div className = "MainScreen">
             <h1 className="mainScreenTitle">Help-Bot</h1>
             <input className = "userInput" placeholder = "Type emotion here..." type = "text" onChange={(event) => setFeeling(event.target.value)}/>
             <button className="enterButton" onClick = {() => enterButton()}>Enter</button>

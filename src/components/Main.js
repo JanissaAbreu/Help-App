@@ -11,7 +11,7 @@ const MainScreen = (props) => {
     //This "enterButton" function is where the code for the enter button will go
     //Right now it just console.logs "Enter button clicked"
     const enterButton = () => {
-        var feeling = {userFeeling}.userFeeling; //Whatever the user types into the textbox
+        var feeling = {userFeeling}.userFeeling.trim(); //Whatever the user types into the textbox. Trim() removes any extra spacing
         var randomNum;
         var randResponse;
         

@@ -4,7 +4,7 @@ import '../styling/RandomSuggestion.css';
 const RandomSuggestion = (props) => {
     return (
         <div>
-            <p>This is where the random suggestion will be printed when the user presses Enter :)</p>
+            <p>{props.response}</p>
         </div>
     );
 }

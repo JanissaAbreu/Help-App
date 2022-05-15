@@ -1,5 +1,17 @@
 [
-    {"bored": "suggestion1"},
-    {"bored": "suggestion2"},
-    {"bored": "suggestion3"}
+    {"bored": "Go do your laundry"},
+    {"bored": "Draw a elephant on a horse"},
+    {"bored": "Write a letter to your future self"},
+    {"bored": "Read a book"},
+    {"bored": "Bake something"},
+    {"bored": "Go for a walk"},
+    {"bored": "Build a pillow fort"},
+    {"bored": "Look through old pictures"},
+    {"bored": "Organize your desk"},
+    {"bored": "Catch up with a friend"},
+    {"bored": "Exercise"},
+    {"bored": "Meditate"},
+    {"bored": "Watch the news"},
+    {"bored": "Play a video game"}
+    
 ]

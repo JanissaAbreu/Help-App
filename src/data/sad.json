@@ -1,5 +1,16 @@
 [
-    {"sad": "suggestion1"},
-    {"sad": "suggestion2"},
-    {"sad": "suggestion3"}
+    {"sad": "Write in a journal"},
+    {"sad": "Ask for help"},
+    {"sad": "Treat yourself to some food"},
+    {"sad": "Watch a funny film"},
+    {"sad": "Read a book"},
+    {"sad": "Listen to a podcast"},
+    {"sad": "Call a friend"},
+    {"sad": "Take a nap"},
+    {"sad": "Drink some tea"},
+    {"sad": "Smile at yourself in the mirror"},
+    {"sad": "Write down things you love about yourself"},
+    {"sad": "Clean your room"},
+    {"sad": "Ask for a hug"},
+    {"sad": "Cry it out"}
 ]

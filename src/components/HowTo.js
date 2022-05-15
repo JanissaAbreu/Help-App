@@ -4,7 +4,7 @@ import '../styling/HowTo.css';
 const HowToPage = (props) => {
     return (
         <div className = "HowToPage">
-            <h1 className = "howToHeader">How To Use the Help-Bot</h1>
+            <h1 className = "howToHeader">How To Use The Help-Bot</h1>
             <p className = "instructions">
                 Type an emotion in the textbox and press enter to get a response <br/>
                 <b>For example...</b> <br/>
